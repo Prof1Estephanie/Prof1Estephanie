@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🏞️
 
-<!--
-**Prof1Estephanie/Prof1Estephanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduada em Ciências Biológicas
+- Sou Professora do Ensino Fundamental II e Ensino Médio.
+- Leciono as diciplinas de Pensamento Computacional, Trilha de Matemática III - Programação, Trilha de Biotecnologia, Protagonismo, Estudo Orientado e Componete Curricular Eletivo.
+- Estou me desenvolevendo na linguaguem JavaSprit.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos com meus alunos.
 
-Here are some ideas to get you started:
+- ### Você pode entar em contato comigo através do 📧
+- estephanie.ferreira@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](![image](https://github.com/Prof1Estephanie/Prof1Estephanie/assets/173959907/886e673f-a289-4149-894d-29ee1d78ba4c)
+
